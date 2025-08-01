@@ -12,7 +12,7 @@ import base64
 
 # Configure page
 st.set_page_config(
-    page_title="Professional Battery Cell Monitoring System",
+    page_title="Battery Cell Monitoring System",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded"
