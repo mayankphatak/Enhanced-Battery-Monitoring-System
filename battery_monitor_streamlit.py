@@ -328,7 +328,7 @@ def main():
     init_session_state()
     
     # Header
-    st.markdown('<h1 class="main-header">⚡ Professional Battery Cell Monitoring & Task Management System</h1>', 
+    st.markdown('<h1 class="main-header">⚡ Battery Cell Monitoring & Task Management System</h1>', 
                 unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; color: #94a3b8; font-size: 1.1rem;">Advanced real-time monitoring with intelligent task automation and comprehensive analytics</p>', 
                 unsafe_allow_html=True)
